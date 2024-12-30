@@ -1,0 +1,5 @@
+RMIInterface.class
+RMIServer\RMIInterface.class
+RMIClient\RMIClientGUI.class
+RMIServer.class
+com\mycompany\rmiamortisasi\RMIAmortisasi.class
